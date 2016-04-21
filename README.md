@@ -1,9 +1,8 @@
 # NoSQL-Beginner
-######
-Date: 21 April 2016
-Author: Craig Gonzales
-Purpose: Trial NoSQL Databse for DB Proof
-######
+Date: 21 April 2016 \n
+Author: Craig Gonzales\n
+Purpose: Trial NoSQL Databse for DB Proof\n
+
 
 To support my professional development and skill use-case, 
 I've developed a sample NoSQL database.
