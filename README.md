@@ -1,20 +1,7 @@
 # NoSQL-Beginner
 Date: 21 April 2016
-
 Author: Craig Gonzales
 
-Purpose: Trial NoSQL Databse for DB Proof
+NoSQL Beginner. Created a NoSQL Database to track my study for cyberSecurity. I named the database cyberStudy. In order to create, read, update, and delete entries in the cyberStudy database, I created a CRUD pythons script called 'studydb.py'. 
 
-To support my professional development and skill use-case, 
-
-I've developed a sample NoSQL database.
-
-Title: TI Study Guide 
-
-Description: A database of the studying I've done to prepare for the role.
-
-CRUD Database: MongoDB with pyMongo
-
-Application: Python
-
-Database Visualisation: PHP
+This folder includes 'studydb.py' and it incldues a dump of the most up-to-date entries in my study plan.
