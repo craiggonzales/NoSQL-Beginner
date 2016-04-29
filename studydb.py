@@ -73,7 +73,7 @@ action = raw_input("Create, Read, Update, or Delete? [C, R, U, D]: ")
 
 if action == "C":
 	# Work with the correct data. Case sensitive and this isn't a functional application, 
-	# so it'll stay case sensitive. In a real solution I wouldn't be using python to collect data
+	# so it'll stay case sensitive. In a real solution I wouldn't be using raw_input to collect data
 	collect = raw_input("Which Collection? [NoSQL, SQLite3, Splunk, RegEx, Kafka]: ")
 	datatype = raw_input("What datatype? [Document, Video]: ")
 	name = raw_input("What is the title? ")
